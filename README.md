@@ -27,6 +27,8 @@
 2. **標註工具選擇（Annotation Tool）**：
 
    * 使用開源影像標註工具 **LabelImg** 進行手動標註。
+   * <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/3ec5314c-f95f-4b5b-b04a-c7b4e2548592" />
+
 3. **標註格式與規範**：
 
    * 標註格式選擇 **Pascal VOC**（會產生與圖片同檔名的 `.xml` 標註檔案）。
